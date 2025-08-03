@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently creating websites and other project to test my skills<br>and apply them on others projects.
+I'm currently designing and developing websites and diverse projects to enhance my technical skills, experiment with new technologies, and build a strong portfolio. These projects serve as practical applications of my knowledge, allowing me to solve real-world problems and improve my problem-solving abilities.
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@ im currently creating websites and other project to test my skills<br>and apply 
 ---
 [![](https://visitcount.itsvg.in/api?id=zxtrk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
