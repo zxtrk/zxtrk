@@ -2,7 +2,7 @@
 
 # Artjom Japins
 
-Web developer interested in building clear, functional websites and projects while steadily improving core development skills.
+I am a technology enthusiast interested in building clear, functional websites and projects while steadily improving core development skills.
 
 </div>
 
@@ -10,7 +10,7 @@ Web developer interested in building clear, functional websites and projects whi
 
 ## About Me
 
-I’m a web developer who enjoys turning ideas into simple, usable, and well-structured web experiences. Most of my work comes from building personal and portfolio projects that help me strengthen my understanding of how the web works at a practical level.
+I enjoys turning ideas into simple, usable, and well-structured web experiences. Most of my work comes from building personal and portfolio projects that help me strengthen my understanding of how the web works at a practical level.
 
 I focus on writing code that is easy to read, easy to maintain, and easy to improve. Instead of chasing complexity, I prefer learning by building things from the ground up, making mistakes, fixing them, and refining my approach over time.
 
@@ -34,27 +34,14 @@ These tools make up my current foundation. I focus on getting comfortable with t
 
 ---
 
-## How I Build
+## What i work on
 
-When starting a project, I spend time thinking through structure, flow, and edge cases before writing code. I prefer simple solutions that work well and can be improved later rather than over-engineered ones.
+I design and develop responsive websites with an emphasis on usability and structure. My projects often involve translating ideas into functional interfaces, handling user interaction with JavaScript, and ensuring layouts adapt smoothly across devices.
 
-I regularly revisit older projects to clean things up, refactor logic, and improve readability. This helps me see my own progress and reinforces better habits over time.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxtrk&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zxtrk&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxtrk&theme=dark&hide_border=true&layout=compact)
-
-</div>
+I also spend time strengthening my programming fundamentals by building features from scratch, refactoring existing code, and improving project organization. This helps me better understand how small decisions affect maintainability and scalability.
 
 ---
+
 
 ## Developer Insight
 
