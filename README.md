@@ -2,7 +2,7 @@
 
 # Artjom Japins
 
-Web developer focused on building clean, maintainable, and practical solutions through hands-on projects and continuous learning.
+Web developer interested in building clear, functional websites and projects while steadily improving core development skills.
 
 </div>
 
@@ -10,11 +10,11 @@ Web developer focused on building clean, maintainable, and practical solutions t
 
 ## About Me
 
-I am a web developer with a strong interest in building clear, functional, and well-structured web applications. I actively work on personal and portfolio projects that allow me to apply core programming concepts while strengthening my understanding of modern development practices.
+I’m a web developer who enjoys turning ideas into simple, usable, and well-structured web experiences. Most of my work comes from building personal and portfolio projects that help me strengthen my understanding of how the web works at a practical level.
 
-My approach emphasizes thoughtful problem-solving, incremental improvement, and writing code that is easy to read and maintain. Each project is treated as a real-world exercise rather than a short-term demo, with attention given to structure, usability, and long-term quality.
+I focus on writing code that is easy to read, easy to maintain, and easy to improve. Instead of chasing complexity, I prefer learning by building things from the ground up, making mistakes, fixing them, and refining my approach over time.
 
-I value consistency, clarity, and steady growth, and I continuously refine my skills through practical implementation and review of my own work.
+I’m especially interested in improving problem-solving skills, understanding application structure, and developing habits that translate well to real-world development environments.
 
 ---
 
@@ -22,23 +22,23 @@ I value consistency, clarity, and steady growth, and I continuously refine my sk
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Primary%20Language-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-Problem%20Solving-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-Primary-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-General%20Use-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Layout%20%26%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Layout%20%26%20Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </div>
 
-These technologies represent my current foundation. I focus on mastering core tools before introducing frameworks or abstractions, ensuring I understand how things work at a fundamental level.
+These tools make up my current foundation. I focus on getting comfortable with the basics before moving on to frameworks or abstractions, making sure I understand what’s happening under the hood.
 
 ---
 
-## Development Approach
+## How I Build
 
-I approach development with clarity and intention. Before writing code, I spend time thinking through structure, edge cases, and user flow. I prefer simple, readable solutions that can be refined and improved over time.
+When starting a project, I spend time thinking through structure, flow, and edge cases before writing code. I prefer simple solutions that work well and can be improved later rather than over-engineered ones.
 
-I regularly review and refactor my work to improve readability, reduce unnecessary complexity, and strengthen overall quality. This mindset allows me to continuously improve both my technical ability and my approach to problem-solving.
+I regularly revisit older projects to clean things up, refactor logic, and improve readability. This helps me see my own progress and reinforces better habits over time.
 
 ---
 
@@ -56,32 +56,10 @@ I regularly review and refactor my work to improve readability, reduce unnecessa
 
 ---
 
-## Connect With Me
-
-I’m always open to connecting with other developers, learning from different perspectives, and discussing projects, ideas, or opportunities.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artjom%20Japins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artjom-japins-4b589b35b/)
-
-</div>
-
----
-
 ## Developer Insight
 
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-## Profile Views
-
-<div align="center">
-
-![Profile Views](https://visitcount.itsvg.in/api?id=zxtrk&label=Profile%20Views&color=6&icon=5&pretty=true)
 
 </div>
