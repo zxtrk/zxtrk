@@ -1,48 +1,87 @@
-<div align="center"> <h1 style="font-weight:600;">Artjom Japins</h1> <p style="max-width:760px; color:#6B7280;"> Web developer focused on building clear, maintainable, and practical solutions through hands-on projects and continuous learning. </p> </div>
-About Me
+<div align="center">
 
-I am a web developer with a strong interest in building clean, functional, and well-structured applications. I actively work on personal and portfolio projects that allow me to apply core programming concepts while improving my understanding of modern web development practices.
+# Artjom Japins
 
-My approach to development emphasizes thoughtful problem-solving, incremental improvement, and writing code that is easy to read and maintain. I treat each project as a learning opportunity and focus on building solutions that reflect real-world constraints rather than purely experimental demos.
+Web developer focused on building clean, maintainable, and practical solutions through hands-on projects and continuous learning.
 
-I value consistency, clarity, and long-term growth, and I continuously refine my workflow and technical skills through practical implementation.
+</div>
 
-What I Work On
+---
 
-I design and develop responsive websites with an emphasis on usability and structure. My projects often involve translating ideas into functional interfaces, handling user interaction with JavaScript, and ensuring layouts adapt smoothly across devices.
+## About Me
 
-I also spend time strengthening my programming fundamentals by building features from scratch, refactoring existing code, and improving project organization. This helps me better understand how small decisions affect maintainability and scalability.
+I am a web developer with a strong interest in building clear, functional, and well-structured web applications. I actively work on personal and portfolio projects that allow me to apply core programming concepts while strengthening my understanding of modern development practices.
 
-Skills & Technologies
-<div align="center"> <img src="https://img.shields.io/badge/JavaScript-Primary%20Language-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Python-Problem%20Solving-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/HTML-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-Layout%20%26%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-Documentation-%23000000?style=for-the-badge&logo=markdown&logoColor=white"/> </div> <br/>
+My approach emphasizes thoughtful problem-solving, incremental improvement, and writing code that is easy to read and maintain. Each project is treated as a real-world exercise rather than a short-term demo, with attention given to structure, usability, and long-term quality.
+
+I value consistency, clarity, and steady growth, and I continuously refine my skills through practical implementation and review of my own work.
+
+---
+
+## Skills & Technologies
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Primary%20Language-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-Problem%20Solving-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/HTML-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Layout%20%26%20Design-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+</div>
 
 These technologies represent my current foundation. I focus on mastering core tools before introducing frameworks or abstractions, ensuring I understand how things work at a fundamental level.
 
-Development Approach
+---
 
-I approach development with an emphasis on clarity and intention. Before writing code, I spend time thinking through structure, edge cases, and user flow. I prefer simple, readable solutions that can be easily improved over time.
+## Development Approach
 
-I regularly review and refactor my own work to improve readability, reduce complexity, and strengthen overall quality. This mindset allows me to continuously improve both my technical ability and the way I approach problem-solving.
+I approach development with clarity and intention. Before writing code, I spend time thinking through structure, edge cases, and user flow. I prefer simple, readable solutions that can be refined and improved over time.
 
-GitHub Activity
+I regularly review and refactor my work to improve readability, reduce unnecessary complexity, and strengthen overall quality. This mindset allows me to continuously improve both my technical ability and my approach to problem-solving.
+
+---
+
+## GitHub Activity
+
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxtrk&show_icons=true&theme=dark&hide_border=true)
 
-<br/>
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zxtrk&theme=dark&hide_border=true)
 
-
-<br/>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxtrk&theme=dark&hide_border=true&layout=compact)
 
 </div>
-Connect With Me
 
-I’m always open to connecting with other developers, learning from different perspectives, and discussing projects or ideas.
+---
 
-Developer Insight
+## Connect With Me
+
+I’m always open to connecting with other developers, learning from different perspectives, and discussing projects, ideas, or opportunities.
+
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Artjom%20Japins-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artjom-japins-4b589b35b/)
+
 </div>
-<div align="center"> <p style="color:#6B7280; font-size:0.9em;"> Profile views </p>
+
+---
+
+## Developer Insight
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+---
+
+## Profile Views
+
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=zxtrk&label=Profile%20Views&color=6&icon=5&pretty=true)
 
 </div>
