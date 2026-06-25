@@ -34,7 +34,7 @@ These tools make up my current foundation. I focus on getting comfortable with t
 
 ---
 
-## What i work on
+## What i do
 
 I design and develop responsive websites with an emphasis on usability and structure. My projects often involve translating ideas into functional interfaces, handling user interaction with JavaScript, and ensuring layouts adapt smoothly across devices.
 
